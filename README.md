@@ -6,10 +6,9 @@ A massive movie dataset called Movie Lens contains over 20 million ratings for 2
 ## Overview of Project
 
 Amazin Prime Video is a platform for streaming movies and TV shows on Amazing Prime, the world's largest retailer. The Amazing Prime video team would like to develop an algorithm to predict which low-budget films begin released will become popular so that they can buy the streaming rights at a bargain. The company decided to provide a clean data set of movie data, and we need to create the datasets. There are two data sources: a scrape of Wikipedia for all movies released since 1990 and rating data from the Movie Land's website. We will need to extract the data from the two sources, transform it into one clean data set, and finally load that data set into a SQL table. 
+ 
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto and comprises the goals below for this module: 
-
-Follow below the goals for this module:
+Follow below the goals for this project:
 
 1) Objective 1: Write an ETL Function to Read Three Data Files
 2) Objective 2: Extract and Transform the Wikipedia Data
